@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>WAR Web Service along with webhooks and its looks good</title>
+	<title>WAR Web Service along with webhooks and set</title>
 	<link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
